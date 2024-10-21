@@ -1,6 +1,6 @@
 ## Juan Ignacio Fogolin Lagares
 
-- 🏫 Estudiante en la escuela Secundaria ORT Sede Belgrano, orientación TIC.
+- 🏫 Estudiante de Ingeniería Electrónicaen el ITBA.
 - ⚡ Interesado en electronica, ciencias de datos, programación Back-End, entre otras cosas.
 - 🧰 Toolbox:
 <br>
