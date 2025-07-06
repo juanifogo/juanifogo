@@ -1,6 +1,6 @@
 ## Juan Ignacio Fogolin Lagares
 
-- 🏫 Estudiante de Ingeniería Electrónicaen el ITBA.
+- 🏫 Estudiante de Ingeniería Electrónica en el ITBA.
 - ⚡ Interesado en electronica, ciencias de datos, programación Back-End, entre otras cosas.
 - 🧰 Toolbox:
 <br>
@@ -8,7 +8,6 @@
 <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=75 height=auto>
 <img src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg width=75 height=auto>
 <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg width=75 height=auto>
-<img src=https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg height=75 width=auto>
 <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg width=75 height=auto>
 <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg width=75 height=auto>
 <img src=https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg width=75 height=auto>
@@ -25,4 +24,5 @@
 <img src=https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg width=75 height=auto>
 <img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg width=75 height=auto>
 <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg width=75 height=auto>
+<img src=https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg height=75 width=auto>
 </p>
