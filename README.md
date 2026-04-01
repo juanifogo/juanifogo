@@ -1,7 +1,7 @@
 ## Juan Ignacio Fogolin Lagares
 
 - 🏫 Estudiante de Ingeniería Electrónicaen el ITBA.
-- ⚡ Interesado en electronica, ciencias de datos, programación Back-End, entre otras cosas.
+- ⚡ Interesado en electrónica, ciencias de datos, programación Back-End, entre otras cosas.
 - 🧰 Toolbox:
 <br>
 <p>
